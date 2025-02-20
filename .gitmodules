@@ -1,0 +1,3 @@
+[submodule "jenkinspipeline"]
+	path = jenkinspipeline
+	url = https://github.com/Lohitakshverma/jenkinspipeline.git
